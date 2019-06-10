@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.links {
+  display: inline;
+}
+
+.profile {
+  width: 13em;
+  border-radius: 250%;
+  position: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.about {
+  padding-top: 10px;
+  text-align: center
+}
+
+.intro {
+  text-align: center;
+}
+
+/* .graphic {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7ItEb8CmClsHxiWLws-D8UeQvcevxGp04EhI5j-yJcaBMOKU) ;
+  /* no-repeat, center, fixed 
+
+} 
+*/
