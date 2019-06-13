@@ -9,6 +9,7 @@ import Portfolio from './components/Portfolio.js'
 import NavBar from './components/NavBar';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
+import Footer from './components/Footer'
 // import { Row, Col } from 'react-materialize';
 import { BrowserRouter as Router, Switch, Route, } from "react-router-dom"
 // import Switch from 'react-materialize/lib/Switch';
@@ -31,14 +32,16 @@ class App extends React.Component {
       <Route path="/Resume" exact component={Resume}/>
       </Switch>
 
-      <Switch>
+      
       <Route>
       <Home/>
       <About />
-      <Portfolio />
-      <Contact />
+      
+      <Portfolio path="/Portfolio" exact component={Portfolio}/>
+      
+      <Contact path="/Contact" component={Contact} />
       </Route>
-      </Switch>
+     <Footer/>
 
 
       </div>

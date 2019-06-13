@@ -1,4 +1,7 @@
 import React from 'react'
+import linkedin from './images/linkedin.png'
+import github from './images/github.png'
+import gmail from './images/gmail.png'
 import { Row, Col } from 'react-materialize';
 
 class Contact extends React.Component {
@@ -6,21 +9,27 @@ class Contact extends React.Component {
       return (
         <div className="">
         <div className="container">
-        <h2>Contact</h2>
+        <h4>Contact</h4>
         <p> If you're interested in learning more, let's connect </p>
             <div>
                 <Row >
-                    <Col m={4}>
-               <a href="http://dev.davis2@gmail.com">Email</a>
+                    <Col s={4} m={4}>
+               <a target="_blank" href="http://dev.davis2@gmail.com">
+               <img src={gmail}/>
+               </a>
                </Col>
-               <Col m={4}>
-               <a href="http://Linkedin.com/in/Dev-Davis2">LinkedIn</a>
+               <Col s={4} m={4}>
+               <a target="_blank" href="http://Linkedin.com/in/Dev-Davis2">
+               <img src={linkedin}/> 
+               </a>
                </Col>
-               <Col m={4}>
-               <a href="http://Github.com/DevDavis2">Github</a>
+               <Col s={4} m={4}>
+               <a target="_blank" href="http://Github.com/DevDavis2"> 
+               <img src={github}/>
+               </a>
                </Col>
                </Row>
-               <p> &copy; 2019 Devin Davis</p>
+               
             </div>
             </div>
             </div>

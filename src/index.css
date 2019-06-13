@@ -33,9 +33,14 @@ code {
   text-align: center;
 }
 
-/* .graphic {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7ItEb8CmClsHxiWLws-D8UeQvcevxGp04EhI5j-yJcaBMOKU) ;
-  /* no-repeat, center, fixed 
+.Footer {
+  position: absolute;
+}
 
-} 
-*/
+/* .graphic {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qsoAbUQEQhxiR5Nctrvk-nd3qRW_Buu479W6fDSqhMxVzO4F);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 30vh;
+} */

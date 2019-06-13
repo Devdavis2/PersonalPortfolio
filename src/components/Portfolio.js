@@ -11,32 +11,38 @@ class Portfolio extends React.Component {
         <div className="grey lighten-1">
         <div className="container">
         
-        <h3 className="white-text">Here's some of my work</h3>
+        <h4 className="white-text">Software Engineer Portfolio</h4>
 
 
   <Carousel options={{fullWidth: true,indicators: true}}>
 
 <div className='blue darken-2'>
-<a href='https://kicks-stock.herokuapp.com/kicks/user'> 
+<a target="_blank" href='https://kicks-stock.herokuapp.com/kicks/user'> 
 <h2 className=" btn blue white-text">Kicks Stock</h2></a>
 <p className='white-text'>Kicks Stock is a sneaker app</p>
 <img src='https://imgur.com/7gyDsYA.png'/>
 </div> 
 
 <div className='green darken-1'>
-<a href='https://jobshunter.herokuapp.com/'> 
+<a target="_blank" href='https://jobshunter.herokuapp.com/'> 
 <h2 className=" btn green white-text">JobHunters</h2></a>
 <p className='white-text'>JobHunters is a app that tracks and adds potenial jobs</p>
 <img src='https://imgur.com/nfvZj8I.png'/>
 </div> 
 
 <div className='red darken-1'>
-<a href='https://tonus-moods-eq.herokuapp.com/'> 
+<a target="_blank" href='https://tonus-moods-eq.herokuapp.com/'> 
 <h2 className=" btn red white-text">Tonus Mood EQ</h2></a>
 <p className='white-text'>Tonus Mood EQ is a ... app</p>
 <img src='https://imgur.com/gqQ64WQ.png'/>
 </div> 
 
+<div className='grey darken-4'>
+<a target="_blank" href='http://tonusaudio.com/'> 
+<h2 className=" btn grey darken-3 red white-text">Tonus Audio</h2></a>
+<p className='white-text'>Tonus Mood EQ is a ... app</p>
+<img src='https://imgur.com/XsqWpEz.png'/>
+</div> 
   </Carousel>
 
 </div>
