@@ -37,10 +37,10 @@ code {
   position: absolute;
 }
 
-/* .graphic {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qsoAbUQEQhxiR5Nctrvk-nd3qRW_Buu479W6fDSqhMxVzO4F);
-  background-position: center;
+.graphic {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/00/14/65/3256657136926fa.jpg);
+  background-position: center absolute;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 30vh;
-} */
+  height: 12em;
+}

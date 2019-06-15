@@ -9,8 +9,8 @@ class Contact extends React.Component {
       return (
         <div className="">
         <div className="container">
-        <h4>Contact</h4>
-        <p> If you're interested in learning more, let's connect </p>
+        <h4 className="blue-text">Contact</h4>
+        <p> If you're interested in connecting, reach out via email, LinkedIn, or follow me on Instagram. Visit Github to learn more about my apps.</p>
             <div>
                 <Row >
                     <Col s={4} m={4}>

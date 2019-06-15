@@ -20,9 +20,9 @@ class Footer extends React.Component {
               </div>
             </div>
           </div>
-          <div class=" grey footer-copyright">
+          <div class=" blue darken-4 footer-copyright">
             <div class="container">
-            © 2019 Copyright Devin Davis
+            © 2019 Copyright Davis & Allen Creative Solutions
             <a class=" grey-text text-lighten-4 right" href="#!"></a>
             </div>
           </div>

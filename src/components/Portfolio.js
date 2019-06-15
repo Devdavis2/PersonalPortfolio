@@ -11,8 +11,7 @@ class Portfolio extends React.Component {
         <div className="grey lighten-1">
         <div className="container">
         
-        <h4 className="white-text">Software Engineer Portfolio</h4>
-
+        <h4 className="section blue-text">Work</h4>
 
   <Carousel options={{fullWidth: true,indicators: true}}>
 
@@ -46,7 +45,9 @@ class Portfolio extends React.Component {
   </Carousel>
 
 </div>
+
 </div>
+
           
       );
     }
