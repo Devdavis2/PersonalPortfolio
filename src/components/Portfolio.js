@@ -1,6 +1,6 @@
 import React from 'react'
 import { Carousel } from 'react-materialize';
-// var instance = M.Carousel.getInstance(elem);
+
 
 
 class Portfolio extends React.Component {

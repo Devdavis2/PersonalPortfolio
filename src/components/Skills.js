@@ -4,29 +4,28 @@ import github from './images/github.png'
 import gmail from './images/gmail.png'
 import { Row, Col } from 'react-materialize';
 
-class Contact extends React.Component {
+class Skills extends React.Component {
     render () {
       return (
-        <div className="">
+        <div className=" section blue">
         <div className="container">
-        <h4 className="blue-text">Contact</h4>
-        <p> If you're interested in connecting, reach out via email, LinkedIn, or follow me on Instagram. <br></br>Visit Github to learn more about my progresive web apps.</p>
+        <h4 className="white-text">Skills</h4>
             <div>
                 <Row >
                     <Col s={4} m={4}>
-               <a target="_blank" href="mailto:dev.davis2@gmail.com">
+             <p>Agile</p>
                <img src={gmail}/>
-               </a>
+            
                </Col>
                <Col s={4} m={4}>
-               <a target="_blank" href="http://Linkedin.com/in/Dev-Davis2">
+               <p>Agile</p>
                <img src={linkedin}/> 
-               </a>
+        
                </Col>
                <Col s={4} m={4}>
-               <a target="_blank" href="http://Github.com/DevDavis2"> 
+               <p>Agile</p>
                <img src={github}/>
-               </a>
+           
                </Col>
                </Row>
                
@@ -37,4 +36,4 @@ class Contact extends React.Component {
     }
   }
   
-  export default Contact;
+  export default Skills;

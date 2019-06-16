@@ -4,7 +4,7 @@ import { Row, Col } from 'react-materialize';
 class About extends React.Component {
     render () {
       return (
-        <div className="section">
+        <div className="section ">
         
         <h4 className="section about-title container blue-text">About</h4>
         

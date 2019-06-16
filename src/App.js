@@ -5,6 +5,7 @@ import 'materialize-css'; // Must use lines 3 & 4 to import materialize along wi
 import 'materialize-css/dist/css/materialize.min.css';
 import Home from './components/Home';
 import About from './components/About';
+import Skills from './components/Skills';
 import Portfolio from './components/Portfolio.js'
 import NavBar from './components/NavBar';
 import Contact from './components/Contact';
@@ -35,10 +36,9 @@ class App extends React.Component {
       
       <Route>
       <Home/>
-      <About />
-      
-      <Portfolio path="/Portfolio" exact component={Portfolio}/>
-      
+      <About/>
+      <Skills/>
+      <Portfolio />
       <Contact path="/Contact" component={Contact} />
       </Route>
      <Footer/>
