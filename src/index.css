@@ -56,6 +56,11 @@ code {
   overflow: hidden; 
 }
 
+.web_app {
+  white-space: nowrap;
+  overflow: hidden; 
+}
+
 .portfolio {
   padding-top: 5%;
 }
