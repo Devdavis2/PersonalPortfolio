@@ -55,3 +55,11 @@ code {
   white-space: nowrap;
   overflow: hidden; 
 }
+
+.portfolio {
+  padding-top: 5%;
+}
+
+.work {
+  margin-top: -5%;
+}

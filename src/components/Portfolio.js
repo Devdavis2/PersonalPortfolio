@@ -8,10 +8,10 @@ class Portfolio extends React.Component {
   
     render () {
       return (
-        <div className="grey lighten-1">
+        <div className="portfolio grey lighten-1">
         <div className="container">
         
-        <h4 className="section blue-text">Work</h4>
+        <h4 className="work blue-text">Work</h4>
 
   <Carousel options={{fullWidth: true,indicators: true}}>
 
