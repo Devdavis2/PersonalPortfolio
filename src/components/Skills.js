@@ -1,5 +1,5 @@
 import React from 'react'
-import linkedin from './images/linkedin.png'
+import data from './images/data.png'
 import github from './images/github.png'
 import gmail from './images/gmail.png'
 import { Row, Col } from 'react-materialize';
@@ -12,20 +12,20 @@ class Skills extends React.Component {
         <h4 className="white-text">Skills</h4>
             <div>
                 <Row >
-                    <Col s={4} m={4}>
-             <p>Agile</p>
-               <img src={gmail}/>
-            
+                    <Col className="grey lighten-3" s={4} m={4}>
+                    <h5><b>Strategy</b></h5>
+               <img src={data}/>
+               <p>I create full-stack web applications using Javascript, HTML & CSS, React.js, Express.js, as well as Ruby on Rails.</p>
                </Col>
-               <Col s={4} m={4}>
-               <p>Agile</p>
-               <img src={linkedin}/> 
-        
+               <Col className="blue lighten-2" s={4} m={4}>
+               <h5><b>Analytics</b></h5>
+               <img src={data}/> 
+               <p>I create full-stack web applications using Javascript, HTML & CSS, React.js, Express.js, as well as Ruby on Rails.</p>
                </Col>
-               <Col s={4} m={4}>
-               <p>Agile</p>
-               <img src={github}/>
-           
+               <Col className="grey lighten-3" s={4} m={4}>
+               <h5><b>Web Apps</b></h5>
+               <img src={data}/>
+               <p>I create full-stack web applications using Javascript, HTML & CSS, React.js, Express.js, as well as Ruby on Rails.</p>
                </Col>
                </Row>
                
