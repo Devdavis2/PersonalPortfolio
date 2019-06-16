@@ -14,7 +14,7 @@ class Contact extends React.Component {
             <div>
                 <Row >
                     <Col s={4} m={4}>
-               <a target="_blank" href="http://dev.davis2@gmail.com">
+               <a target="_blank" href="mailto:dev.davis2@gmail.com">
                <img src={gmail}/>
                </a>
                </Col>

@@ -44,3 +44,13 @@ code {
   background-size: cover;
   height: 12em;
 }
+
+.intro {
+  white-space: nowrap;
+  overflow: hidden; 
+}
+
+.sub_intro {
+  white-space: nowrap;
+  overflow: hidden; 
+}

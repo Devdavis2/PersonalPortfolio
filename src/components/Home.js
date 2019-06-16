@@ -10,7 +10,7 @@ class Home extends React.Component {
         <br></br>
         <Col s={12}>
         <h2 className="intro container white-text"><b>HEY THERE, <br></br>I AM DEVIN DAVIS</b></h2>
-        <h5 className="blue darken-1  white-text">Product Manager | Software Engineer</h5>
+        <h5 className="sub_intro blue darken-1  white-text">Product Manager | Software Engineer</h5>
         </Col>
             </div>
       );
