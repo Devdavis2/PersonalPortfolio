@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from "react-router-dom"
+// import { SidNav } from "react-router-dom"
 
 class NavBar extends React.Component {
     render () {
@@ -9,7 +9,8 @@ class NavBar extends React.Component {
     <div class="nav-wrapper blue darken-4 blue-text">
       <a href="#" class="brand-logo center">Devin Davis</a>
       
-      <ul id="nav-mobile" class="right hide-on-med-and-down" >
+      <ul id="nav-mobile" className="right hide-on-med-and-down" 
+      data-target="mobile-demo" className="sidenav-trigger">
       <div className="links ">
         <li><a href="/">Home</a></li>
         <li><a href="/Resume">Resume</a></li>
@@ -18,7 +19,10 @@ class NavBar extends React.Component {
         </div>
       </ul>
     </div>
-  </nav>
+    </nav>
+
+
+
         
       );
     }
