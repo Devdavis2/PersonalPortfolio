@@ -48,6 +48,7 @@ code {
 .intro {
   white-space: nowrap;
   overflow: hidden; 
+  font-size: 3em;
 }
 
 .sub_intro {
