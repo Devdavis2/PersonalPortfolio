@@ -8,10 +8,10 @@ class Home extends React.Component {
         <br></br>
         {/* <h1 className="container">Devin Davis</h1> */}
         <br></br>
-        <Col s={11}>
-        <h2 className="intro container white-text"><b>HEY THERE, <br></br>I AM DEVIN DAVIS</b></h2>
+        {/* <Col s={11}> */}
+        <h3 className="intro container white-text"><b>HEY THERE, <br></br>I AM DEVIN DAVIS</b></h3>
         <h5 className="sub_intro blue darken-1 flow-text white-text">Product Manager | Software Engineer</h5>
-        </Col>
+        {/* </Col> */}
             </div>
       );
     }
