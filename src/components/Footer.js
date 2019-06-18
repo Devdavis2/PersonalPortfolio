@@ -24,7 +24,7 @@ class Footer extends React.Component {
           </div>
           <div class=" blue darken-4 footer-copyright">
             <div class="container">
-            © 2019 Copyright Davis & Allen Creative Solutions
+            © 2019 Copyright Davis App Solutions
             <a class=" grey-text text-lighten-4 right" href="#!"></a>
             </div>
           </div>
