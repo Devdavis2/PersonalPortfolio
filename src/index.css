@@ -26,7 +26,8 @@ code {
 
 .about {
   padding-top: 10px;
-  text-align: center
+  text-align: justify;
+  text-align-last: center
 }
 
 .intro {
@@ -59,6 +60,28 @@ code {
 .web_app {
   white-space: nowrap;
   overflow: hidden; 
+  text-align: justify;
+  text-align-last: center
+}
+
+.strategic_content {
+  text-align: justify;
+  text-align-last: center 
+}
+
+.data_content {
+  text-align: justify;
+  text-align-last: center 
+}
+
+.web_content {
+  text-align: justify;
+  text-align-last: center 
+}
+
+.contact_content {
+  text-align: justify;
+  text-align-last: center 
 }
 
 .portfolio {

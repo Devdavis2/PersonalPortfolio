@@ -8,7 +8,7 @@ class Portfolio extends React.Component {
   
     render () {
       return (
-        <div className="portfolio grey lighten-1">
+        <div className="portfolio grey lighten-3">
         <div className="container">
         
         <h4 className="work blue-text">Work</h4>

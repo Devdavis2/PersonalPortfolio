@@ -10,7 +10,7 @@ class Contact extends React.Component {
         <div className="">
         <div className="container">
         <h4 className="blue-text">Contact</h4>
-        <p> If you're interested in connecting, reach out via email, LinkedIn, or follow me on Instagram. <br></br>Visit Github to learn more about my progresive web apps.</p>
+        <p className="contact_content"> If you're interested in connecting, reach out via email, LinkedIn, or follow me on Instagram. Visit Github to learn more about my progresive web apps.</p>
             <div>
                 <Row >
                     <Col s={4} m={4}>
