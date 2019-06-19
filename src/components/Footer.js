@@ -15,9 +15,9 @@ class Footer extends React.Component {
                 </ul>
               </div>
               <div class="col l4 offset-l2 s6">
-                <h5 class="blue-text">Experience</h5>
+                <h5 className="blue-text">Hire Me</h5>
                 <ul>
-                  <li><a class="black-text text-lighten-3" href="/Resume">Resume</a></li>
+                  <li><a class="blue-text" href="/Resume">Resume</a></li>
                 </ul>
               </div>
             </div>
