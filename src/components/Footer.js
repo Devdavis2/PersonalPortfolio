@@ -7,7 +7,7 @@ class Footer extends React.Component {
           <div class="container">
             <div class="row">
               <div class="col l6 s6">
-                <h5 class="blue-text">Follow Me</h5>
+                <h5 class="blue-text">Follow</h5>
                 {/* <p class="black-text text-lighten-4">You can use rows and columns here to organize your footer content.</p> */}
                 <ul>
                   <li><a class="black-text text-lighten-3" href="http://twitter.com">Twitter</a></li>
@@ -15,7 +15,7 @@ class Footer extends React.Component {
                 </ul>
               </div>
               <div class="col l4 offset-l2 s6">
-                <h5 className="blue-text">Hire Me</h5>
+                <h5 className="blue-text">Partner</h5>
                 <ul>
                   <li><a class="blue-text" href="/Resume">Resume</a></li>
                 </ul>
