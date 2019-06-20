@@ -14,11 +14,11 @@ class Footer extends React.Component {
                 <h5 class="blue-text">Follow</h5>
                 {/* <p class="black-text text-lighten-4">You can use rows and columns here to organize your footer content.</p> */}
                 <ul>
-             
+             <Row>
                   <li><a class="black-text text-lighten-3" href="http://twitter.com"> <img src={twitter}/></a></li>
                  
                   <li><a class="black-text text-lighten-3" href="http://instagram.com"> <img src={instagram}/> </a></li>
-            
+                  </Row>
                 </ul>
               </div>
               <div class="col l4 offset-l2 s6">
