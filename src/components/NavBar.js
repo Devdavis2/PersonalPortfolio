@@ -13,8 +13,8 @@ class NavBar extends React.Component {
       <div className="links ">
         <li><a href="/">Home</a></li>
         <li><a href="/Resume">Resume</a></li>
-        <li><a href="/Portfolio">Portfolio</a></li>
-        <li><a href="/Contact">Contact</a></li>
+        {/* <li><a href="/Portfolio">Portfolio</a></li>
+        <li><a href="/Contact">Contact</a></li> */}
         </div>
       </ul>
     </div>
