@@ -1,4 +1,8 @@
 import React from 'react'
+import twitter from './images/twitter.png'
+import instagram from './images/instagram.png'
+import Row from 'react-materialize/lib/Row';
+// import { Row, Col } from 'react-materialize';
 
 class Footer extends React.Component {
     render () {
@@ -10,8 +14,11 @@ class Footer extends React.Component {
                 <h5 class="blue-text">Follow</h5>
                 {/* <p class="black-text text-lighten-4">You can use rows and columns here to organize your footer content.</p> */}
                 <ul>
-                  <li><a class="black-text text-lighten-3" href="http://twitter.com">Twitter</a></li>
-                  <li><a class="black-text text-lighten-3" href="http://instagram.com">Instagram</a></li>
+             
+                  <li><a class="black-text text-lighten-3" href="http://twitter.com"> <img src={twitter}/></a></li>
+                 
+                  <li><a class="black-text text-lighten-3" href="http://instagram.com"> <img src={instagram}/> </a></li>
+            
                 </ul>
               </div>
               <div class="col l4 offset-l2 s6">
