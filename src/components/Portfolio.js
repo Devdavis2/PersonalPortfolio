@@ -19,6 +19,7 @@ class Portfolio extends React.Component {
 <a target="_blank" href='https://kicks-stock.herokuapp.com/kicks/user'> 
 <h3 className=" btn blue white-text">Kicks Stock</h3></a>
 <p className=' container white-text'>Kicks Stock is a sneaker app for resellers and limited edition kicks</p>
+<br></br>
 <img src='https://imgur.com/7gyDsYA.png'/>
 </div> 
 
@@ -26,6 +27,7 @@ class Portfolio extends React.Component {
 <a target="_blank" href='https://jobshunter.herokuapp.com/'> 
 <h3 className=" btn green white-text">JobHunters</h3></a>
 <p className='container white-text'>JobHunters is a app that tracks and adds potenial jobs</p>
+<br></br>
 <img src='https://imgur.com/nfvZj8I.png'/>
 </div> 
 
@@ -33,6 +35,7 @@ class Portfolio extends React.Component {
 <a target="_blank" href='https://tonus-moods-eq.herokuapp.com/'> 
 <h3 className=" btn red white-text">Tonus Mood EQ</h3></a>
 <p className='container white-text'>Tonus Mood EQ is an prototype app that quantifies how music affects users mood to optimize their playlist based on emotional insights</p>
+<br></br>
 <img src='https://imgur.com/gqQ64WQ.png'/>
 </div> 
 
@@ -40,6 +43,7 @@ class Portfolio extends React.Component {
 <a target="_blank" href='http://tonusaudio.com/'> 
 <h3 className=" btn grey darken-3 red white-text">Tonus Audio</h3></a>
 <p className=' container white-text'>Tonus Audio is an ecommerce site for a consumer electronics audio brand</p>
+<br></br>
 <img src='https://imgur.com/XsqWpEz.png'/>
 </div> 
   </Carousel>
