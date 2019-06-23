@@ -9,7 +9,7 @@ class NavBar extends React.Component {
     <div class="nav-wrapper blue darken-4 blue-text">
       <a href="#" class="brand-logo center">Devin Davis</a>
       
-      <ul id="nav-mobile" className="right hide-on-med-and-down">
+      <ul id="nav-mobile" className="left hide-on-med-and-down">
       <div className="links ">
         <li><a href="/">Home</a></li>
         <li><a href="/Resume">Resume</a></li>

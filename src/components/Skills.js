@@ -15,7 +15,7 @@ class Skills extends React.Component {
                     <Col className="grey lighten-3" s={12} m={4}>
                     <h5><b>Strategy</b></h5>
                <img src={strategy}/>
-               <p className="strategic_content">Strategic thinker with an ROI driven mindset and strong problem-solving skills.</p>
+               <p className="strategic_content">Strategic and creative thinker with an ROI driven mindset and strong problem-solving skills.</p>
                </Col>
                <Col className="blue lighten-2" s={12} m={4}>
                <h5><b>Analytics</b></h5>
