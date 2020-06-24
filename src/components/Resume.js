@@ -13,11 +13,9 @@ class Resume extends React.Component {
                     <iframe
                         src={ResumePDF}
                         width='100%'
-                        style={{ height: '100vh' }}
-                    >
+                        style={{ height: '100vh' }}>
                     </iframe>
                 </object>
-
             </div>
         );
     }

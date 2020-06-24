@@ -24,11 +24,200 @@ code {
   margin: 0 auto;
 }
 
+.demo {
+  width: 32em;
+  /* border-radius: 250%; */
+  position: center;
+  display: block;
+  margin: 0 auto;
+}
+
+/* START OF FONT FAMILY*/
+
+/* HOME SECTION */
+
+.intro {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  padding-bottom: 5em;
+}
+
+/* ABOUT SECTION */
+
 .about {
   padding-top: 10px;
   text-align: justify;
-  text-align-last: center
+  text-align-last: center;
 }
+
+.Abouttitle {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.Subheadline {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 450;
+}
+
+.Aboutcopy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.passions {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 350;
+}
+
+.passionslist {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* SKILLS SECTION */
+
+.Skills {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.Strategy-headline {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.strategic_content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.Analytics-headline {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600; 
+}
+
+.data_content{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.Developer-headline {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600; 
+}
+
+.dev_content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.PM-headline {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600; 
+}
+
+.PM_content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* PORTFOLIO SECTION */
+
+.portfolio { 
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.portfolio-copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.BofA {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+}
+
+.BofA-copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+}
+
+.Pro_Events {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+}
+
+.Pro_Events_copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;  
+}
+
+.CGD {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+}
+
+.CGD_copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.Novartis {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.Novartis_copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.KS {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.KS_copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.Tonus {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.Tonus_copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* CONTACT SECTION */
+
+.Contact {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+.contact_content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* FOOTER SECTION */
+.Footer-copy {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* END OF FONT FAMILY */
 
 .intro {
   text-align: center;
@@ -59,10 +248,10 @@ code {
   font-size: 2.7em;
 }
 
-.sub_intro {
+/* .sub_intro {
   white-space: nowrap;
   overflow: hidden; 
-}
+} */
 
 .web_app {
   white-space: nowrap;
@@ -99,6 +288,82 @@ code {
   margin-top: -3%;
 }
 
-.about {
-  margin-top: .80%
+
+/* START OF MENU FONT COLOR */
+
+.material-icons {
+  color: #2196f3;
 }
+
+.homebtn {
+  /* color: #2196f3; */
+}
+
+.resumebtn {
+color: #2196f3; 
+}
+
+.contactbtn {
+  color: #2196f3; 
+}
+
+/* END OF MENU FONT COLOR */
+
+/* START OF ICON SIZES */
+
+.strategy {
+max-width: 4.25em;
+}
+
+.data {
+  max-width: 5.4em;
+}
+
+.app {
+    max-width: 5.0em;
+}
+
+.PM-rocket {
+  max-width: 5.2em;
+}
+
+.gmail {
+  max-width: 2em;
+}
+
+.linkedin {
+  max-width: 2em;
+}
+
+.instagram {
+  max-width: 2em;
+}
+
+.github {
+  max-width: 2em;
+}
+
+.menulogo {
+  max-width: 2em;
+  padding-top: 0.3em;
+
+}
+
+/* Start of video styling */
+
+  .iframe-container{
+    position: relative;
+    width: 100%;
+    /* padding-bottom: 56.25%;  */
+    padding-bottom: 50%; 
+    height: 0%;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    /* top: 5em; */
+    left: 0;
+    width: 100%;
+    height: 85%;
+    
+  }
+

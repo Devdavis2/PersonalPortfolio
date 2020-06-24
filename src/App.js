@@ -4,6 +4,7 @@ import './App.css';
 import 'materialize-css'; // Must use lines 3 & 4 to import materialize along with npm installs
 import 'materialize-css/dist/css/materialize.min.css';
 import Home from './components/Home';
+import Video from './components/Video';
 import About from './components/About';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio.js'
@@ -29,23 +30,32 @@ class App extends React.Component {
     
       {/* <Route path="/About" exact component={About}></Route> */}
       
-      <Switch>
-      <Route path="/Resume" exact component={Resume}/>
+
+  
+     <Route path="/About" exact component={About}>
+    </Route>
+
+    <Switch>
+      <Route path="/Resume" component={Resume}/>
       </Switch>
 
-      
-      <Route>
-      <Home/>
-      <About/>
-      <Skills/>
-      <Portfolio />
-      <Contact path="/Contact" component={Contact} />
+
+    <Switch>
+      <Route>      
+        <Home/>
+        <Video/>
+        <About/>
+        <Skills/>
+        <Portfolio />
+        <Contact path="/Contact" component={Contact} />
       </Route>
+      </Switch>
+
      <Footer/>
 
 
-      </div>
           </div>
+              </div>
           </Router>
     );
   }
