@@ -37,12 +37,12 @@ code {
 /* HOME SECTION */
 
 .intro {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
 }
 
 .title {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   padding-bottom: 5em;
 }
@@ -56,164 +56,164 @@ code {
 }
 
 .Abouttitle {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
 }
 
 .Subheadline {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 450;
 }
 
 .Aboutcopy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .passions {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 350;
 }
 
 .passionslist {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 /* SKILLS SECTION */
 
 .Skills {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
 }
 
 .Strategy-headline {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
 }
 
 .strategic_content {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .Analytics-headline {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 600; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
 }
 
-.data_content{
-  font-family: 'Open Sans', sans-serif;
+.data_content {
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .Developer-headline {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 600; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
 }
 
 .dev_content {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .PM-headline {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 600; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
 }
 
 .PM_content {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 /* PORTFOLIO SECTION */
 
-.portfolio { 
-  font-family: 'Open Sans', sans-serif;
+.portfolio {
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
 }
 
 .portfolio-copy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .BofA {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
 }
 
 .BofA-copy {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
 }
 
 .Pro_Events {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
 }
 
 .Pro_Events_copy {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;  
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
 }
 
 .CGD {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400; 
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
 }
 
 .CGD_copy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .Novartis {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .Novartis_copy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .KS {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .KS_copy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .Tonus {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 .Tonus_copy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 /* CONTACT SECTION */
 
 .Contact {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
 }
 
 .contact_content {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
 /* FOOTER SECTION */
 .Footer-copy {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
 }
 
@@ -229,7 +229,7 @@ code {
 
 .graphic {
   background-image: url(https://png.pngtree.com/thumb_back/fw800/back_pic/00/14/65/3256657136926fa.jpg);
-  
+
   background-position: center absolute;
   background-repeat: no-repeat;
   background-size: cover;
@@ -238,13 +238,13 @@ code {
 
 .intro {
   white-space: nowrap;
-  overflow: hidden; 
+  overflow: hidden;
   font-size: 2.7em;
 }
 
 .title {
   white-space: nowrap;
-  overflow: hidden; 
+  overflow: hidden;
   font-size: 2.7em;
 }
 
@@ -255,9 +255,9 @@ code {
 
 .web_app {
   white-space: nowrap;
-  overflow: hidden; 
+  overflow: hidden;
   text-align: justify;
-  text-align-last: center
+  text-align-last: center;
 }
 
 /* .strategic_content {
@@ -288,7 +288,6 @@ code {
   margin-top: -3%;
 }
 
-
 /* START OF MENU FONT COLOR */
 
 .material-icons {
@@ -300,11 +299,11 @@ code {
 }
 
 .resumebtn {
-color: #2196f3; 
+  color: #2196f3;
 }
 
 .contactbtn {
-  color: #2196f3; 
+  color: #2196f3;
 }
 
 /* END OF MENU FONT COLOR */
@@ -312,7 +311,7 @@ color: #2196f3;
 /* START OF ICON SIZES */
 
 .strategy {
-max-width: 4.25em;
+  max-width: 4.25em;
 }
 
 .data {
@@ -320,7 +319,7 @@ max-width: 4.25em;
 }
 
 .app {
-    max-width: 5.0em;
+  max-width: 5em;
 }
 
 .PM-rocket {
@@ -346,24 +345,21 @@ max-width: 4.25em;
 .menulogo {
   max-width: 2em;
   padding-top: 0.3em;
-
 }
 
 /* Start of video styling */
 
-  .iframe-container{
-    position: relative;
-    width: 100%;
-    /* padding-bottom: 56.25%;  */
-    padding-bottom: 50%; 
-    height: 0%;
-  }
-  .iframe-container iframe{
-    position: absolute;
-    /* top: 5em; */
-    left: 0;
-    width: 100%;
-    height: 85%;
-    
-  }
+/* .iframe-container {
+  position: relative;
+  width: 100%;
+ 
+  padding-bottom: 50%;
+  height: 0%;
+}
+.iframe-container iframe {
+  position: absolute;
 
+  left: 0;
+  width: 100%;
+  height: 85%;
+} */
