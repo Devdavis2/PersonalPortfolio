@@ -139,6 +139,10 @@ code {
   font-weight: 400;
 }
 
+.Carousel {
+  height: 100%;
+}
+
 .BofA {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
