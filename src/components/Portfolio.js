@@ -27,7 +27,10 @@ class Portfolio extends React.Component {
                 Chicago Marathon distance calculator application
               </p>
               <br></br>
-              <img src="https://imgur.com/nOfziuK.png" />
+              <img
+                clasName="responsive-img"
+                src="https://imgur.com/nOfziuK.png"
+              />
             </div>
 
             <div className="orange darken-3">
@@ -40,7 +43,10 @@ class Portfolio extends React.Component {
                 Pro Events guest check-In application
               </p>
               <br></br>
-              <img src="https://imgur.com/ecCqzpH.png" />
+              <img
+                clasName="responsive-img"
+                src="https://imgur.com/ecCqzpH.png"
+              />
             </div>
 
             <div className="orange darken-3">
@@ -53,7 +59,10 @@ class Portfolio extends React.Component {
                 College Gameday Cornhole Tournament registration microsite{" "}
               </p>
               <br></br>
-              <img src="https://imgur.com/MP0I4gD.png" />
+              <img
+                clasName="responsive-img"
+                src="https://imgur.com/MP0I4gD.png"
+              />
             </div>
 
             <div className="blue darken-4">
@@ -66,7 +75,10 @@ class Portfolio extends React.Component {
                 Novartis Data Privacy Day Picture Mosaic
               </p>
               <br></br>
-              <img src="https://imgur.com/CG8wGCF.png" />
+              <img
+                clasName="responsive-img"
+                src="https://imgur.com/CG8wGCF.png"
+              />
             </div>
 
             <div className="blue darken-3">
@@ -80,7 +92,10 @@ class Portfolio extends React.Component {
                 An eCommerce sneaker platform connecting buyers and sellers
               </p>
               <br></br>
-              <img src="https://imgur.com/7gyDsYA.png" />
+              <img
+                clasName="responsive-img"
+                src="https://imgur.com/7gyDsYA.png"
+              />
             </div>
 
             <div className="grey darken-4">
@@ -93,7 +108,10 @@ class Portfolio extends React.Component {
                 An website for a start-up consumer electronics audio brand
               </p>
               <br></br>
-              <img src="https://imgur.com/XsqWpEz.png" />
+              <img
+                clasName="responsive-img"
+                src="https://imgur.com/XsqWpEz.png"
+              />
             </div>
           </Carousel>
         </div>
