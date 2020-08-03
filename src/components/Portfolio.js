@@ -112,12 +112,6 @@ class Portfolio extends React.Component {
                 src="https://imgur.com/XsqWpEz.png"
               />
             </div>
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
           </Carousel>
           <br />
           <br />
