@@ -24,9 +24,12 @@ class Home extends React.Component {
           <h4 className="intro container white-text">
             <b>MarTech</b>
           </h4>
-          <h6 className="title flow-text container white-text">
+          {/* <h6 className="title container white-text">
             <b>Management Specialist</b>
-          </h6>
+          </h6> */}
+          <h5 className="sub-headline container white-text">
+            Management Specialist
+          </h5>
         </div>
       </div>
     );
