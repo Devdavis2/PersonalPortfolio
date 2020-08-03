@@ -31,7 +31,7 @@ class Skills extends React.Component {
                 </p>
               </Col>
               <Col className=" grey lighten-3" s={12} m={3}>
-                <h5 className="Developer-headline">Web Development</h5>
+                <h5 className="Developer-headline">Development</h5>
                 <img className="app" src={app} />
                 <p className="dev_content">
                   Full-stack developer proficient in programming languages
@@ -39,7 +39,7 @@ class Skills extends React.Component {
                 </p>
               </Col>
               <Col className=" grey lighten-3" s={12} m={3}>
-                <h5 className="PM-headline">Project Management</h5>
+                <h5 className="PM-headline">PM</h5>
                 <img className="PM-rocket" src={PM_Rocket} />
                 <p className="PM_content">
                   PM generating 6+ digit revenues, commmunicating project
