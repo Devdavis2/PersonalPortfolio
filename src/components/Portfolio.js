@@ -113,10 +113,13 @@ class Portfolio extends React.Component {
               />
             </div>
           </Carousel>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
         </div>
-        <br />
-        <br />
-        <br />
       </div>
     );
   }
