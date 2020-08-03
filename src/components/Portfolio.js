@@ -14,7 +14,6 @@ class Portfolio extends React.Component {
           </p>
 
           <Carousel
-            className="Carousel"
             options={{ fullWidth: true, fullHeight: true, indicators: true }}
           >
             <div className="red darken-3">
