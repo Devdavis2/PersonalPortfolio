@@ -1,5 +1,6 @@
 import React from "react";
 import { Row, Col } from "react-materialize";
+import Nikon from "./images/Nikon.jpg";
 
 class About extends React.Component {
   render() {
@@ -50,10 +51,7 @@ class About extends React.Component {
           </Col>
 
           <Col s={12} m={6}>
-            <img
-              className="section demo responsive-img"
-              src="https://imgur.com/C8CamYI.jpg"
-            />
+            <img className="section demo responsive-img" src={Nikon} />
           </Col>
         </Row>
       </div>
