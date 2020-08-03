@@ -18,6 +18,7 @@ class Video extends React.Component {
           <br />
           <br />
         </div>
+        <br />
       </div>
     );
   }
