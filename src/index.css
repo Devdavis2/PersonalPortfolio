@@ -43,9 +43,8 @@ code {
 
 .title {
   font-family: "Open Sans", sans-serif;
-  font-size: 1em;
-  font-weight: 700;
-
+  /* font-size: 1em; */
+  font-weight: 600;
   padding-bottom: 5em;
 }
 
