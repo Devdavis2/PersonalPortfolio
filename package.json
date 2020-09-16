@@ -1,7 +1,7 @@
 {
   "name": "personal_portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": "false",
   "dependencies": {
     "jquery": "^3.5.1",
     "materialize-css": "^1.0.0",
