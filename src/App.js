@@ -11,9 +11,11 @@ import Portfolio from "./components/Portfolio.js";
 import NavBar from "./components/NavBar";
 import Contact from "./components/Contact";
 import Resume from "./components/Resume";
+import Recommendation from "./components/Recommendation";
 import Footer from "./components/Footer";
 // import { Row, Col } from 'react-materialize';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+// import Reference from "./components/Reference";
 // import Switch from "react-materialize/lib/Switch";
 
 class App extends React.Component {
@@ -26,10 +28,13 @@ class App extends React.Component {
             <Route path="/Resume" component={Resume} />
           </Switch>
           <Switch>
+            <Route path="/Recommendation" component={Recommendation} />
+          </Switch>
+          <Switch>
             <Route path="/Home" component={Home} />
             <Home />
           </Switch>
-          <Video />
+          {/* <Video /> */}
           <About />
           <Skills />
           <Portfolio />

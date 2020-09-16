@@ -301,10 +301,13 @@ code {
 }
 
 .homebtn {
-  /* color: #2196f3; */
+  color: #2196f3;
 }
 
 .resumebtn {
+  color: #2196f3;
+}
+.recommendationbtn {
   color: #2196f3;
 }
 
