@@ -15,7 +15,7 @@ import Recommendation from "./components/Recommendation";
 import Footer from "./components/Footer";
 // import { Row, Col } from 'react-materialize';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-// import Reference from "./components/Reference";
+import { Buffer } from "buffer";
 // import Switch from "react-materialize/lib/Switch";
 
 class App extends React.Component {
