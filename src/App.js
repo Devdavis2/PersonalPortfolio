@@ -25,7 +25,7 @@ class App extends React.Component {
         <Router>
           <NavBar />
           <Switch>
-            <Route path="/Resume" component={Resume} />
+            <Route path="/Resume" exact strict component={Resume} />
           </Switch>
           <Switch>
             <Route path="/Recommendation" component={Recommendation} />

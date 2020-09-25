@@ -1,22 +1,8 @@
 import React from "react";
-import { Redirect } from "react-router-dom";
+
 import ResumePDF from "./images/Resume.pdf";
 
 class Resume extends React.Component {
-  state = {
-    redirect: false,
-  };
-  setRedirect = () => {
-    this.setState({
-      redirect: true,
-    });
-  };
-  renderRedirect = () => {
-    if (this.state.redirect) {
-      return <Redirect to="/Resume" />;
-    }
-  };
-
   render() {
     return (
       <div className="resume">
